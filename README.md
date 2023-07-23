@@ -27,7 +27,7 @@ PHP and JavaScript serve different purposes in web development. PHP is primarily
 ## Procedural PHP vs. Object-Oriented PHP
 Procedural PHP and Object-Oriented PHP are two programming paradigms for writing PHP code. Procedural PHP involves writing code as a series of procedural steps, while Object-Oriented PHP employs classes and objects to create reusable and structured code. Object-Oriented PHP offers several advantages, such as code reusability, maintainability, and better organization. However, both approaches have their use cases, and the choice between them depends on the project's complexity and requirements.
 
-Overall, this PHP calculator project serves as an excellent starting point to explore PHP's potential as a server-side language and provides valuable insights into PHP's advantages and use cases in web development. Happy coding!
+Overall, this PHP calculator project serves as an excellent starting point to explore PHP's potential as a server-side language and provides valuable insights into PHP's advantages and use cases in web development. 
 ## Running the PHP Calculator Locally
 
 1. **Download**: Clone this GitHub repository to your local machine or download the PHP file directly.
