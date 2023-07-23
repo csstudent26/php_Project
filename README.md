@@ -28,3 +28,18 @@ PHP and JavaScript serve different purposes in web development. PHP is primarily
 Procedural PHP and Object-Oriented PHP are two programming paradigms for writing PHP code. Procedural PHP involves writing code as a series of procedural steps, while Object-Oriented PHP employs classes and objects to create reusable and structured code. Object-Oriented PHP offers several advantages, such as code reusability, maintainability, and better organization. However, both approaches have their use cases, and the choice between them depends on the project's complexity and requirements.
 
 Overall, this PHP calculator project serves as an excellent starting point to explore PHP's potential as a server-side language and provides valuable insights into PHP's advantages and use cases in web development. Happy coding!
+## Running the PHP Calculator Locally
+
+1. **Download**: Clone this GitHub repository to your local machine or download the PHP file directly.
+
+2. **Set Up Local Server**: Install and configure a local server environment like XAMPP, WAMP, or MAMP.
+
+3. **Place the File**: Move the downloaded PHP file (`calculator.php`) into the appropriate server directory (e.g., `htdocs` for XAMPP).
+
+4. **Start the Server**: Launch your local server.
+
+5. **Access the Calculator**: Open your web browser and navigate to the URL where the PHP file is hosted. For example, if you are using XAMPP, enter `http://localhost/calculator.php` in your browser.
+
+6. **Start Calculating**: You should now see the calculator web page. Enter two numbers and select the desired arithmetic operation from the drop-down list. Click the "Calculate" button to see the result.
+
+Enjoy using the PHP Calculator locally on your machine!
